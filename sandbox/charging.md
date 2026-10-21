@@ -2,7 +2,7 @@
 
 ## Number of Public EV Charging Points
 
-Research indicates a growing number of public EV charging points in the US, with approximately XXXX charging points available nationwide.
+Research indicates a growing number of public EV charging points in the US, with over 250,000 charging points available nationwide.
 
 ## Major EV Charging Networks
 
