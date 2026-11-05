@@ -80,9 +80,6 @@ if question:
     st.write(ans['answer'])
                   
 
-
-
-
 '''while True:
 
     question = input(

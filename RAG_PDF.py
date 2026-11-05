@@ -7,7 +7,7 @@ from langchain_community.vectorstores import Chroma
 load_dotenv()
 #--------------------------------------------------------------------
 loader=PyPDFLoader('Attention_all_you_need.pdf')
-documents= loader.load()
+documents = loader.load()
 print("Paged loaded", len(documents))
 #--------------------------------------------------------------------
 splitter=RecursiveCharacterTextSplitter(chunk_size=1000,chunk_overlap=200)
